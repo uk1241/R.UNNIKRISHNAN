@@ -18,7 +18,7 @@ body {
 body::before {
   content: "";
   position: fixed;
-  background: #040404 url("../img/6.jpg") top right no-repeat;
+  background: #040404 url("https://videohive.img.customer.envatousercontent.com/files/012da8ce-990c-4fb4-8d55-a13cb9a19258/inline_image_preview.jpg?auto=compress%2Cformat&fit=crop&crop=top&max-h=8000&max-w=590&s=24d793fd9b67b0da9dc82b0dae2ddd33") top right no-repeat;
   background-size: cover;
   left: 0;
   right: 0;
